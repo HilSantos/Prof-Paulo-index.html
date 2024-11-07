@@ -11,7 +11,9 @@
 <body id="inicial">
     <header>
 <h1>Meu amigo cão - Petshop</h1>
+<div id="anuncio">
 <img src="Multimidia/anuncio-cantinho-feliz-h.jpg" alt="anuncio">
+</div>
 <section>
     <p><a href="boletim.html">Assine o boletim mensal</a></p>
     <p>nos acompanhe</p>
