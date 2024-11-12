@@ -24,7 +24,7 @@
         <a href="#"><img src="Multimidia/ms-pinterest.gif" alt="pinterest"></a>
         <a href="#"><img src="Multimidia/ms-gmais.gif" alt="google+"></a>
         
-    </figure>
+</figure>
 </section>
     </header>
     <nav>
