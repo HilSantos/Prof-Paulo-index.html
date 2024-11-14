@@ -62,6 +62,13 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus reiciendis earum, soluta, 
         saepe assumenda labore sint libero qui magnam quidem ratione ullam at voluptates! Tempora facere voluptatibus laborum nisi harum!</p>
 </main>
+<aside>
+    <video controls poster="Multimidia/brincando2.jpg">
+        <source src="Multimidia/cao_brincando.mp4" type="video/mp4">
+    </video>
+    <p>Brinque sempre com seu cãozinho</p>
+    <img src="Multimidia/anuncio_pet2.jpg" alt="anuncio">
+</aside>
 <footer>
     <p>Atendimento: <a href="mailto:atendimento@meuamigocao.com.br">atendimento@meuamigocao.com.br</a>
         - (0XX) 9999-9999 / (0XX) 8888-8888</p>
