@@ -37,17 +37,31 @@
 </ul>
 </nav>
 <aside>
-    <img src="Multimidia/anuncio_pet1.jpg" alt="anuncio">
+    <p><img src="Multimidia/brincando.jpg" alt="brncando"></p>
+    <audio controls>
+        <source src="Multimidia/brincar_com_cuidado.mp3" type="audio/mpeg">
+    </audio>
+    <p><img src="Multimidia/anuncio_pet1.jpg" alt="anuncio"></p>
 </aside>
 <main>
-    <img src="Multimidia/anime-index.jpg" alt="anime">
+    <figure class="anuncioAnime">
+        <div class="boxAnuncio">
+            <img src="Multimidia/anuncio1.jpg" alt="anuncio">
+            <p>BRINCADEIRAS<br>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="boxAnuncio">
+            <img src="Multimidia/anuncio2.jpg" alt="anuncio">
+            <p>CUIDADOS<br>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="boxAnuncio">
+            <img src="Multimidia/anuncio3.jpg" alt="anuncio">
+            <p>SAUDE<br>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+</figure>
     <h1>O melhor para nosso amigo cão</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus reiciendis earum, soluta, 
         saepe assumenda labore sint libero qui magnam quidem ratione ullam at voluptates! Tempora facere voluptatibus laborum nisi harum!</p>
 </main>
-<aside>
-    <img src="Multimidia/anuncio_pet2.jpg" alt="anuncio">
-</aside>
 <footer>
     <p>Atendimento: <a href="mailto:atendimento@meuamigocao.com.br">atendimento@meuamigocao.com.br</a>
         - (0XX) 9999-9999 / (0XX) 8888-8888</p>
