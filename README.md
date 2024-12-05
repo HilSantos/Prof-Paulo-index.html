@@ -37,7 +37,7 @@
 </ul>
 </nav>
 <aside>
-    <p><img src="Multimidia/brincando.jpg" alt="brncando"></p>
+    <p><img src="Multimidia/brincando.jpg" alt="brincando"></p>
     <audio controls>
         <source src="Multimidia/brincar_com_cuidado.mp3" type="audio/mpeg">
     </audio>
